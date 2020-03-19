@@ -1,7 +1,7 @@
 Docker Webhook
 =======
 
-A PoC for provisioning a Docker Image stored in DockerHub installing a Webhool agent to recreate container in every new image.
+A PoC for provisioning a Docker Image stored in DockerHub installing a Webhook agent to recreate container in every new image.
 
 # Requirements
  
